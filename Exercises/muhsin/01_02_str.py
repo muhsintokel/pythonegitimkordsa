@@ -1,2 +1,2 @@
 isim = input("isminizi giriniz:")
-print(isminiz[::-1])
+print(isim[:-1])

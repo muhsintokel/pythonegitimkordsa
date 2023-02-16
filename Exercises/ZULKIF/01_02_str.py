@@ -1,2 +1,2 @@
 isim = İnput("Adinizi Giriniz: ")
-print(isim[-1])
+print(isim[:-1])
