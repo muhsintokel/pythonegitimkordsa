@@ -1,3 +1,3 @@
 print("Merhaba")
 var1 = "Merhaba"
-var1.sp
+var1.
